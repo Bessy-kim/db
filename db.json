@@ -4326,71 +4326,71 @@
     },
     {
       "key": 18,
-      "title": "크리스마스 MD 팝업스토어 EVENT",
+      "title": "크리스마스 MD\n팝업스토어 EVENT",
       "title2": "",
       "img": "db/images/18.jpg",
       "date": "2024-12-21 ~ 2024-12-29"
     },
     {
       "key": 19,
-      "title": "크리스마스 케이크 현장 판매 OPEN",
+      "title": "크리스마스 케이크\n현장 판매 OPEN",
       "title2": "",
       "img": "db/images/19.jpg",
       "date": "2024-12-23 ~ 2024-12-25"
     },
     {
       "key": 20,
-      "title": "산타 베어리스타 펜 증정 이벤트",
+      "title": "산타 베어리스타\n펜 증정 이벤트",
       "title2": "",
       "img": "db/images/20.jpg",
       "date": "2024-12-20 ~ 소진 시까지"
     },
     {
       "key": 21,
-      "title": "온라인 스토어 24 윈터 버디위크",
+      "title": "온라인 스토어 24\n윈터 버디위크",
       "title2": "",
       "img": "db/images/21.jpg",
       "date": "2024-12-10 ~ 2024-12-19"
     },
     {
       "key": 22,
-      "title": "온라인 스토어 케이크 예약 주문",
+      "title": "온라인 스토어\n케이크 예약 주문",
       "title2": "",
       "img": "db/images/22.jpg",
       "date": "2024-11-28 ~ 2024-12-15"
     },
     {
       "key": 23,
-      "title": "2024 WINTER e-FREQUENCY 미션 e-스티커 추가 적립 이벤트",
-      "title2": "",
+      "title": "미션 e-스티커 추가 적립 이벤트",
+      "title2": "2024 WINTER e-FREQUENCY",
       "img": "db/images/23.jpg",
       "date": "2024-12-10 ~ 2024-12-14"
     },
     {
       "key": 24,
-      "title": "12월 음료 Tri-Star Dash",
-      "title2": "",
+      "title": "Tri-Star Dash",
+      "title2": "12월 음료",
       "img": "db/images/24.jpg",
       "date": "2024-12-02 ~ 2024-12-08"
     },
     {
       "key": 25,
       "title": "12월 프로모션",
-      "title2": "",
+      "title2": "Merrier Together",
       "img": "db/images/25.jpg",
       "date": "2024-12-02 ~ 2024-12-31"
     },
     {
       "key": 26,
-      "title": "24 홀리데이 MD 구매 시 다회용 백 증정",
+      "title": "2024 홀리데이 MD 구매 시\n다회용 백 증정",
       "title2": "",
       "img": "db/images/26.jpg",
       "date": "2024-11-01 ~ 소진 시까지"
     },
     {
       "key": 27,
-      "title": "2024 WINTER e-FREQUENCY 캘린더 전시 안내",
-      "title2": "",
+      "title": "2024 WINTER e-FREQUENCY ",
+      "title2": "캘린더 전시 안내",
       "img": "db/images/27.jpg",
       "date": "2024-11-22 ~ 2024-12-29"
     },
@@ -4410,7 +4410,7 @@
     },
     {
       "key": 30,
-      "title": "베어리스타 주차 번호판 증정 이벤트",
+      "title": "베어리스타 주차 번호판\n증정 이벤트",
       "title2": "",
       "img": "db/images/30.jpg",
       "date": "2024-11-20 ~ 소진 시까지"
@@ -4438,7 +4438,7 @@
     },
     {
       "key": 34,
-      "title": "가나아트파크점 11월 이벤트 안내",
+      "title": "가나아트파크점\n11월 이벤트 안내",
       "title2": "Good Luck",
       "img": "db/images/34.jpg",
       "date": "2024-11-01 ~ 2024-11-30"
@@ -4467,13 +4467,13 @@
     {
       "key": 38,
       "title": "펫 프렌들리 스토어 증정 이벤트",
-      "title2": "",
+      "title2": "Little Buddy",
       "img": "db/images/38.jpg",
       "date": "2024-10-16 ~ 소진 시까지"
     },
     {
       "key": 39,
-      "title": "2024 WINTER e-FREQUENCY ",
+      "title": "2024 WINTER\ne-FREQUENCY ",
       "title2": "무료 음료 또는 원두 교환 e-쿠폰 발행 안내",
       "img": "db/images/39.png",
       "date": "2024-12-31"
