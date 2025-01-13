@@ -5430,6 +5430,33 @@
       "detailImg": [
         "db/images/wn_mobilecard_art_contest_240617.jpg"
       ]
+    },
+    {
+      "key": 51,
+      "title": "스타벅스 현대카드 1월혜택",
+      "title2": "benefits",
+      "category": "카드출시",
+      "img": "db/images/WEB_THUM_20241231103639713.jpg",
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "detailImg": [
+        "db/images/10plcc_01_250101.jpg",
+        "db/images/10plcc_02_250101.jpg",
+        "db/images/10plcc_03_250101.jpg",
+        "db/images/10plcc_04_250101.jpg"
+      ]
+    },
+    {
+      "key": 52,
+      "title": "더욱 풍성해진\n대학생 전용 혜택을 만나보세요!",
+      "title2": "benefits",
+      "category": "전체",
+      "img": "db/images/events_52_choonsik.jpg",
+      "startDate": "2024-09-26",
+      "endDate": "",
+      "detailImg": [
+        "db/images/events_52.jpg"
+      ]
     }
   ]
 }
