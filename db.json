@@ -4034,7 +4034,7 @@
     {
       "key": 0,
       "category": "공지사항",
-      "subject": "시스템 개선 및 서비스 점검 안내 페이스북 공유하기",
+      "subject": "시스템 개선 및 서비스 점검 안내",
       "name": "관리자",
       "date": "2025-01-13",
       "contents": "안녕하세요. 스타벅스 코리아입니다.\n보다 나은 서비스를 제공해 드리고자 아래와 같이 시스템 작업을 진행합니다.\n\n- 일자 및 시간 : 2025년 01월 08일(수) 00시 00분 ~ 2025년 01월 08일(수) 04시 30분\n- 대상 서비스 : PUSH 및 알림함 조회 서비스\n\n작업 시간 중 해당 서비스 이용 시 불편사항이 발생할 수 있는 점 양해 부탁드립니다.\n감사합니다."
@@ -4357,7 +4357,7 @@
       "subject": "스타벅스와 함께 새해 인사를 나눠 보세요",
       "name": "관리자",
       "date": "2025-01-02",
-      "contents": "db/images/wn_2025newyear_card_250102_1.jpg"
+      "img": "db/images/wn_2025newyear_card_250102_1.jpg"
     },
     {
       "key": 42,
@@ -4365,7 +4365,7 @@
       "subject": "원두는 어떤 걸로 하시겠어요?",
       "name": "관리자",
       "date": "2024-12-19",
-      "contents": "db/images/wn_selectwholebeantype_241213_1.png"
+      "img": "db/images/wn_selectwholebeantype_241213_1.png"
     },
     {
       "key": 43,
@@ -4373,7 +4373,7 @@
       "subject": "나의 오감을 깨워요",
       "name": "관리자",
       "date": "2024-11-28",
-      "contents": "db/images/wn_11storewebzine_top_241126.jpg"
+      "img": "db/images/wn_11storewebzine_top_241126.jpg"
     },
     {
       "key": 44,
@@ -4381,7 +4381,7 @@
       "subject": "11월 14일, 더춘천의암호R 오픈",
       "name": "관리자",
       "date": "2024-11-13",
-      "contents": "db/images/wn_chunchuen_eiam_program_241111.jpg"
+      "img": "db/images/wn_chunchuen_eiam_program_241111.jpg"
     },
     {
       "key": 45,
@@ -4389,7 +4389,7 @@
       "subject": "단풍 보러 가자",
       "name": "관리자",
       "date": "2024-10-31",
-      "contents": "db/images/wn_10storemagazine_top_241028.jpg"
+      "img": "db/images/wn_10storemagazine_top_241028.jpg"
     },
     {
       "key": 46,
@@ -4397,7 +4397,7 @@
       "subject": "어머, 여기 어디야?",
       "name": "관리자",
       "date": "2024-09-27",
-      "contents": "db/images/wn_9storewebzine_top_240926.jpg"
+      "img": "db/images/wn_9storewebzine_top_240926.jpg"
     },
     {
       "key": 47,
@@ -4405,7 +4405,7 @@
       "subject": "THE 1ST STARBUCKS IN KOREA",
       "name": "관리자",
       "date": "2024-09-24",
-      "contents": "db/images/wn_edrenewal_top_240920.jpg"
+      "img": "db/images/wn_edrenewal_top_240920.jpg"
     },
     {
       "key": 48,
@@ -4413,7 +4413,7 @@
       "subject": "9월 12일, 장충라운지R점 오픈",
       "name": "관리자",
       "date": "2024-09-10",
-      "contents": "db/images/wn_jangchungloungeropen_top_240910.jpg"
+      "img": "db/images/wn_jangchungloungeropen_top_240910.jpg"
     },
     {
       "key": 49,
@@ -4421,7 +4421,7 @@
       "subject": "감성 충전하러 떠나요",
       "name": "관리자",
       "date": "2024-08-21",
-      "contents": "db/images/wn_8storewebzine_top_240820.jpg"
+      "img": "db/images/wn_8storewebzine_top_240820.jpg"
     },
     {
       "key": 50,
@@ -4429,7 +4429,7 @@
       "subject": "7월 31일, 가나아트파크점 오픈",
       "name": "관리자",
       "date": "2024-07-30",
-      "contents": "db/images/wn_ganaartparkopen_241016.jpg"
+      "img": "db/images/wn_ganaartparkopen_241016.jpg"
     },
     {
       "key": 51,
@@ -4437,7 +4437,7 @@
       "subject": "라이카 협업 사진전: 송당의 녹만창천",
       "name": "관리자",
       "date": "2024-07-26",
-      "contents": "db/images/wn_thejejusongdang_leica_240726.jpg"
+      "img": "db/images/wn_thejejusongdang_leica_240726.jpg"
     },
     {
       "key": 52,
@@ -4445,7 +4445,7 @@
       "subject": "여름 여행, 그리고 드라이브",
       "name": "관리자",
       "date": "2024-07-19",
-      "contents": "db/images/wn_7storewebzine_top_240718.jpg"
+      "img": "db/images/wn_7storewebzine_top_240718.jpg"
     },
     {
       "key": 53,
@@ -4453,7 +4453,7 @@
       "subject": "음료제공용 다회용 백 유상 전환 안내",
       "name": "관리자",
       "date": "2024-07-16",
-      "contents": "db/images/wn_reusablebagpay_240716_1.jpg"
+      "img": "db/images/wn_reusablebagpay_240716_1.jpg"
     },
     {
       "key": 54,
@@ -4461,7 +4461,7 @@
       "subject": "My DT Pass 신용카드 결제 기능 리뉴얼",
       "name": "관리자",
       "date": "2024-06-21",
-      "contents": "db/images/wn_mdpcreditcardservice_240620.png"
+      "img": "db/images/wn_mdpcreditcardservice_240620.png"
     },
     {
       "key": 55,
@@ -4469,7 +4469,7 @@
       "subject": "바다 보며 커피 한 잔 어때?",
       "name": "관리자",
       "date": "2024-06-21",
-      "contents": "db/images/wn_6storewebzine_top_240620.jpg"
+      "img": "db/images/wn_6storewebzine_top_240620.jpg"
     },
     {
       "key": 56,
@@ -4477,7 +4477,7 @@
       "subject": "커피는 맛있게, 사진은 특별하게",
       "name": "관리자",
       "date": "2024-05-29",
-      "contents": "db/images/wn_5storewebzine_top_240524.jpg"
+      "img": "db/images/wn_5storewebzine_top_240524.jpg"
     },
     {
       "key": 57,
@@ -4485,7 +4485,7 @@
       "subject": "스타벅스 모바일 선물이 새로워집니다!",
       "name": "관리자",
       "date": "2024-05-21",
-      "contents": "db/images/wn_starbucks_mobile_gift_card_240521.jpg"
+      "img": "db/images/wn_starbucks_mobile_gift_card_240521.jpg"
     },
     {
       "key": 58,
@@ -4493,7 +4493,7 @@
       "subject": "NOW Brewing 서비스 확대",
       "name": "관리자",
       "date": "2024-05-07",
-      "contents": "db/images/wn_nowbrewingservice_241101.jpg"
+      "img": "db/images/wn_nowbrewingservice_241101.jpg"
     },
     {
       "key": 59,
@@ -4501,7 +4501,7 @@
       "subject": "선물 받은 모바일 상품권, 간편하게 딜리버스하세요!",
       "name": "관리자",
       "date": "2024-05-02",
-      "contents": "db/images/wn_delivers_mobile_pay_240502.png"
+      "img": "db/images/wn_delivers_mobile_pay_240502.png"
     },
     {
       "key": 60,
@@ -4509,7 +4509,7 @@
       "subject": "햇살이 아름다운 스타벅스 매장을 소개합니다.",
       "name": "관리자",
       "date": "2024-04-19",
-      "contents": "db/images/wn_4storeappzine_top_1_240419.jpg"
+      "img": "db/images/wn_4storeappzine_top_1_240419.jpg"
     },
     {
       "key": 61,
@@ -4517,7 +4517,7 @@
       "subject": "Introducing STARBUCKS COFFEE",
       "name": "관리자",
       "date": "2024-04-17",
-      "contents": "db/images/wn_CoffeeCategoryChallenge_20240307_1.png"
+      "img": "db/images/wn_CoffeeCategoryChallenge_20240307_1.png"
     },
     {
       "key": 62,
@@ -4525,7 +4525,7 @@
       "subject": "‘모바일 상품권 저장 및 잔액 적립’ 서비스 출시 안내",
       "name": "관리자",
       "date": "2024-04-01",
-      "contents": "db/images/wn_couponsaveservice_01_240401.png"
+      "img": "db/images/wn_couponsaveservice_01_240401.png"
     },
     {
       "key": 63,
@@ -4533,7 +4533,7 @@
       "subject": "꽃길 따라, 커피 따라 스타벅스 벚꽃 여행",
       "name": "관리자",
       "date": "2024-03-14",
-      "contents": "db/images/wn_cherryblossomstore_top_240327.jpg"
+      "img": "db/images/wn_cherryblossomstore_top_240327.jpg"
     },
     {
       "key": 64,
@@ -4541,7 +4541,7 @@
       "subject": "NOW Brewing 서비스 안내",
       "name": "관리자",
       "date": "2024-02-14",
-      "contents": "db/images/wn_now_brewing_20240215_01.jpg"
+      "img": "db/images/wn_now_brewing_20240215_01.jpg"
     },
     {
       "key": 65,
@@ -4549,7 +4549,7 @@
       "subject": "우리 떠나볼까?",
       "name": "관리자",
       "date": "2024-02-08",
-      "contents": "db/images/wn_starbucksstore_00_menu_240208.jpg"
+      "img": "db/images/wn_starbucksstore_00_menu_240208.jpg"
     },
     {
       "key": 66,
@@ -4557,7 +4557,7 @@
       "subject": "종이 쇼핑백/ 음료 제공용 다회용 백 유상 전환 안내",
       "name": "관리자",
       "date": "2024-02-05",
-      "contents": "db/images/wn_better_together_20240215.jpg"
+      "img": "db/images/wn_better_together_20240215.jpg"
     },
     {
       "key": 67,
@@ -4565,7 +4565,7 @@
       "subject": "탄소중립포인트제 안내",
       "name": "관리자",
       "date": "2024-01-17",
-      "contents": "db/images/wn_carbonneutralpoint_231221.jpg"
+      "img": "db/images/wn_carbonneutralpoint_231221.jpg"
     },
     {
       "key": 68,
@@ -4573,7 +4573,7 @@
       "subject": "Apple wallet 결제 서비스 출시",
       "name": "관리자",
       "date": "2024-01-15",
-      "contents": "db/images/wn_applewallet_230115_1.png"
+      "img": "db/images/wn_applewallet_230115_1.png"
     },
     {
       "key": 69,
@@ -4581,7 +4581,7 @@
       "subject": "12월 20일, 그리팅 카드 및 모바일 상품권 잔액 충전 서비스 안내",
       "name": "관리자",
       "date": "2023-12-20",
-      "contents": "db/images/wn_greetingcard_231220.jpg"
+      "img": "db/images/wn_greetingcard_231220.jpg"
     },
     {
       "key": 70,
@@ -4589,7 +4589,7 @@
       "subject": "스타벅스 앱 보안 강화",
       "name": "관리자",
       "date": "2023-12-19",
-      "contents": "db/images/wn_app_security_1.jpg"
+      "img": "db/images/wn_app_security_1.jpg"
     },
     {
       "key": 71,
@@ -4597,7 +4597,7 @@
       "subject": "스타벅스-한마음혈액원이 함께하는 ‘온기 더하기’ 헌혈캠페인",
       "name": "관리자",
       "date": "2024-12-16",
-      "contents": "db/images/wn_blood_donation_campaign_241216.jpg"
+      "img": "db/images/wn_blood_donation_campaign_241216.jpg"
     },
     {
       "key": 72,
@@ -4605,7 +4605,7 @@
       "subject": "CARRY the MERRY 캠페인 안내",
       "name": "관리자",
       "date": "2024-12-13",
-      "contents": "db/images/wn_carry_the_merry_241205.jpg"
+      "img": "db/images/wn_carry_the_merry_241205.jpg"
     },
     {
       "key": 73,
@@ -4613,7 +4613,7 @@
       "subject": "매월 10일, 일회용컵 없는 날",
       "name": "관리자",
       "date": "2024-12-10",
-      "contents": "db/images/wn_12nodisposablecup_241210.jpg"
+      "img": "db/images/wn_12nodisposablecup_241210.jpg"
     },
     {
       "key": 74,
@@ -4621,7 +4621,7 @@
       "subject": "놀다가시개! 유기견 입양 캠페인",
       "name": "관리자",
       "date": "2024-12-09",
-      "contents": "db/images/wn_12_pet_petcampaign_241205.jpg"
+      "img": "db/images/wn_12_pet_petcampaign_241205.jpg"
     },
     {
       "key": 75,
@@ -4629,7 +4629,7 @@
       "subject": "별빛 라이브 12월 공연 일정",
       "name": "관리자",
       "date": "2024-12-02",
-      "contents": "db/images/wn_12starlightlive_241202_1.jpg"
+      "img": "db/images/wn_12starlightlive_241202_1.jpg"
     },
     {
       "key": 76,
@@ -4637,7 +4637,7 @@
       "subject": "매월 10일, 일회용컵 없는 날",
       "name": "관리자",
       "date": "2024-11-08",
-      "contents": "db/images/wn_11nodisposablecup_241107.jpg"
+      "img": "db/images/wn_11nodisposablecup_241107.jpg"
     },
     {
       "key": 77,
@@ -4645,7 +4645,7 @@
       "subject": "놀다가시개! 유기견 입양 캠페인",
       "name": "관리자",
       "date": "2024-11-04",
-      "contents": "db/images/wn_11_pet_campaign_241031.jpg"
+      "img": "db/images/wn_11_pet_campaign_241031.jpg"
     },
     {
       "key": 78,
@@ -4653,7 +4653,7 @@
       "subject": "별빛 라이브 11월 공연 일정",
       "name": "관리자",
       "date": "2024-10-28",
-      "contents": "db/images/wn_11_starlive_241025.jpg"
+      "img": "db/images/wn_11_starlive_241025.jpg"
     },
     {
       "key": 79,
@@ -4661,7 +4661,7 @@
       "subject": "매월 10일, 일회용컵 없는 날",
       "name": "관리자",
       "date": "2024-10-10",
-      "contents": "db/images/wn_10nodisposablecup_241004.jpg"
+      "img": "db/images/wn_10nodisposablecup_241004.jpg"
     },
     {
       "key": 80,
@@ -4669,7 +4669,7 @@
       "subject": "놀다가시개! 유기견 입양 캠페인",
       "name": "관리자",
       "date": "2024-10-08",
-      "contents": "db/images/wn_10_pet_campaign_241007.jpg"
+      "img": "db/images/wn_10_pet_campaign_241007.jpg"
     },
     {
       "key": 81,
@@ -4677,7 +4677,7 @@
       "subject": "별빛라이브 10월 공연 일정",
       "name": "관리자",
       "date": "2024-09-30",
-      "contents": "db/images/wn_oct_starlive_240930.jpg"
+      "img": "db/images/wn_oct_starlive_240930.jpg"
     },
     {
       "key": 82,
@@ -4685,7 +4685,7 @@
       "subject": "Build your Opportunities (Job 박람회)",
       "name": "관리자",
       "date": "2024-09-30",
-      "contents": "db/images/wn_jakorea_240930.jpg"
+      "img": "db/images/wn_jakorea_240930.jpg"
     },
     {
       "key": 83,
@@ -4693,7 +4693,7 @@
       "subject": "커뮤니티 스토어 7호점과 함께하는 그리너 데이즈",
       "name": "관리자",
       "date": "2024-09-30",
-      "contents": "db/images/wn_10geenerdays_240913.jpg"
+      "img": "db/images/wn_10geenerdays_240913.jpg"
     },
     {
       "key": 84,
@@ -4701,7 +4701,7 @@
       "subject": "2024 제주 에코 챌린지",
       "name": "관리자",
       "date": "2024-09-27",
-      "contents": "db/images/wn_jejuecochallenge_240927.jpg"
+      "img": "db/images/wn_jejuecochallenge_240927.jpg"
     },
     {
       "key": 85,
@@ -4709,7 +4709,7 @@
       "subject": "놀다가시개, 스타벅스와 함께하는 유기견 입양 캠페인",
       "name": "관리자",
       "date": "2024-09-09",
-      "contents": "db/images/wn_petcampaign_240906.jpg"
+      "img": "db/images/wn_petcampaign_240906.jpg"
     },
     {
       "key": 86,
@@ -4717,7 +4717,7 @@
       "subject": "투어스(To Earth, To Us) : 친환경 여행 캠페인",
       "name": "관리자",
       "date": "2024-09-09",
-      "contents": "db/images/wn_toearth_campaign_20240910.jpg"
+      "img": "db/images/wn_toearth_campaign_20240910.jpg"
     },
     {
       "key": 87,
@@ -4725,7 +4725,7 @@
       "subject": "매월 10일, 일회용컵 없는 날",
       "name": "관리자",
       "date": "2024-09-09",
-      "contents": "db/images/wn_9nodisposablecup_240906.jpg"
+      "img": "db/images/wn_9nodisposablecup_240906.jpg"
     },
     {
       "key": 88,
@@ -4733,7 +4733,7 @@
       "subject": "별빛라이브 9월 공연 일정",
       "name": "관리자",
       "date": "2024-09-02",
-      "contents": "db/images/wn_starlive_240902.jpg"
+      "img": "db/images/wn_starlive_240902.jpg"
     },
     {
       "key": 89,
@@ -4741,7 +4741,7 @@
       "subject": "매월 10일, 일회용컵 없는 날",
       "name": "관리자",
       "date": "2024-08-09",
-      "contents": "db/images/wn_8zerowastecampaign_240808.jpg"
+      "img": "db/images/wn_8zerowastecampaign_240808.jpg"
     },
     {
       "key": 90,
@@ -4749,7 +4749,7 @@
       "subject": "제주세화DT점에서 개인컵 사용하고 인증하세요!",
       "name": "관리자",
       "date": "2024-08-05",
-      "contents": "db/images/wn_jejusehwadtevent_240805.jpg"
+      "img": "db/images/wn_jejusehwadtevent_240805.jpg"
     },
     {
       "key": 91,
@@ -4757,7 +4757,7 @@
       "subject": "별빛라이브 8월 공연 일정",
       "name": "관리자",
       "date": "2024-07-29",
-      "contents": "db/images/wn_8_starlive_240729.jpg"
+      "img": "db/images/wn_8_starlive_240729.jpg"
     },
     {
       "key": 92,
@@ -4765,7 +4765,7 @@
       "subject": "매월 10일, 일회용컵 없는 날",
       "name": "관리자",
       "date": "2024-07-10",
-      "contents": "db/images/wn_july_campaign_240709.jpg"
+      "img": "db/images/wn_july_campaign_240709.jpg"
     },
     {
       "key": 93,
@@ -4773,7 +4773,7 @@
       "subject": "별빛라이브 7월 공연 일정",
       "name": "관리자",
       "date": "2024-07-01",
-      "contents": "db/images/wn_7starlightlive_240627.jpg"
+      "img": "db/images/wn_7starlightlive_240627.jpg"
     },
     {
       "key": 94,
@@ -4781,7 +4781,7 @@
       "subject": "커뮤니티 스토어 7호점과 함께하는 그리너 데이즈",
       "name": "관리자",
       "date": "2024-06-25",
-      "contents": "db/images/wn_7geenerdays_240625.jpg"
+      "img": "db/images/wn_7geenerdays_240625.jpg"
     },
     {
       "key": 95,
@@ -4789,7 +4789,7 @@
       "subject": "매월 10일, 일회용컵 없는 날",
       "name": "관리자",
       "date": "2024-06-07",
-      "contents": "db/images/wn_6disposablecampaign_240605.jpg"
+      "img": "db/images/wn_6disposablecampaign_240605.jpg"
     },
     {
       "key": 96,
@@ -4797,7 +4797,7 @@
       "subject": "별빛라이브 6월 공연 일정",
       "name": "관리자",
       "date": "2024-06-03",
-      "contents": "db/images/wn_starlive_240531.jpg"
+      "img": "db/images/wn_starlive_240531.jpg"
     },
     {
       "key": 97,
@@ -4805,7 +4805,7 @@
       "subject": "스타벅스 더북한강R점에서 함께하는 6월 유기견 입양 캠페인",
       "name": "관리자",
       "date": "2024-06-03",
-      "contents": "db/images/wn_6happytogether_240531.jpg"
+      "img": "db/images/wn_6happytogether_240531.jpg"
     },
     {
       "key": 98,
@@ -4813,7 +4813,7 @@
       "subject": "매월 10일, 일회용컵 없는 날",
       "name": "관리자",
       "date": "2024-05-09",
-      "contents": "db/images/wn_may_campaign_240509.jpg"
+      "img": "db/images/wn_may_campaign_240509.jpg"
     },
     {
       "key": 99,
@@ -4821,7 +4821,7 @@
       "subject": "별빛라이브 5월 공연 일정",
       "name": "관리자",
       "date": "2024-05-03",
-      "contents": "db/images/wn_5starlightlive_240503.jpg"
+      "img": "db/images/wn_5starlightlive_240503.jpg"
     },
     {
       "key": 100,
@@ -4829,7 +4829,7 @@
       "subject": "스타벅스 더북한강R점에서 함께하는 5월 유기견 입양 캠페인",
       "name": "관리자",
       "date": "2024-05-02",
-      "contents": "db/images/wn_5donghaengcampaign_240502.jpg"
+      "img": "db/images/wn_5donghaengcampaign_240502.jpg"
     }
   ],
   "events": [
